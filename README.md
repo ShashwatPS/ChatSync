@@ -1,5 +1,5 @@
 
-# Realtime Chat App
+# ChatSync
 This is a realtime chat application built using Pusher.js for socket features, NextAuth for GitHub authentication, Prisma for database management, and Supabase for PostgreSQL storage. The application is built on Next.js 13 (AppRouter).
 
 ## Setup
